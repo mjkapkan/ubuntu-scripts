@@ -1,2 +1,5 @@
 # ubuntu-scripts
-Various scripts for ubuntu
+Various scripts for Ubuntu
+
+## Network Scripts
+- ### [Wifi MAC (BSSID) Blacklist](network)
