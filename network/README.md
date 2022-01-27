@@ -6,7 +6,7 @@ This fixes problem described here:
 https://ubuntuforums.org/showthread.php?t=2403369
 
 ## How it works
-Scans available WiFi networks using nmcli, creates a separate network manager config file for each AP MAC adress. 
+Scans available WiFi networks using nmcli, creates a separate network manager config file for each AP MAC address. 
 If network AP is in blacklist, the autoconnect option is set to False, so the network manager will never connect to that network autoamtically.
 
 ## Requirements
