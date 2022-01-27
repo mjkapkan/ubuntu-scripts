@@ -1,4 +1,4 @@
-# WiFi MAC Address Blacklist Tool for Ubuntu Netowrk Manager
+# WiFi MAC Address Blacklist Tool for Ubuntu Network Manager
 
 Alows to specify a list of MAC addresses that should be blocked for a list of Wifi Networks. 
 This is useful when user has no control over the Access Point (AP) configuration (Workplace, neighbors ands so on) when one or several APs have bad/no connectivity.
